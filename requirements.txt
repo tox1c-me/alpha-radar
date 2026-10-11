@@ -1,0 +1,10 @@
+# 全部为标准库即可运行，无需第三方依赖。
+# 以下为可选的加速 / 增强项：
+#
+# requests>=2.31      # 若你想把 urllib 换成 requests
+# lxml>=5.0           # 若想用 XPath 解析而非正则
+#
+# 系统依赖：
+#   - Google Chrome（整页 PNG 导出用，路径见 config.py 的 CHROME）
+#   - Windows PowerShell（市场节点弹窗任务用）
+#   - Clash Verge（X 抓取换出口 IP 用，可选；直连可用时不需要）
